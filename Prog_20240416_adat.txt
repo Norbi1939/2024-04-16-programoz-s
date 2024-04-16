@@ -1,0 +1,4 @@
+Budapest 4 5 0 0 6 9 11
+Kecskemét 0 0 2 3 7 8 13
+Szolnok 0 0 4 0 7 9 7
+Miskolc 2 0 0 1 1 0 3
